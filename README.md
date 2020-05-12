@@ -1,3 +1,3 @@
 # hello-world
-GitHub test
+GitHub test\n
 Make and commit branch@ljs
